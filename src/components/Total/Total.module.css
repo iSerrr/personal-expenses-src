@@ -1,0 +1,10 @@
+.Total {
+    width: 100%;
+
+}
+
+.Total span {
+    font-weight: bold;
+    font-family: sans-serif;
+    border-bottom: 2px solid rgb(103, 103, 103);
+}

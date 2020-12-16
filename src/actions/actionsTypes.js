@@ -1,0 +1,5 @@
+export const ADD = 'add'
+export const TOTAL = 'total'
+export const CLEAR = 'clear'
+export const LIST = 'list'
+export const ERROR = 'error'
